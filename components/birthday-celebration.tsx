@@ -57,7 +57,7 @@ export default function BirthdayCelebration() {
   ]
 
   const birthdayQuote =
-    "Pemsang ji 💖, Happy Birthday to my love, the most special and beautiful person in my life! 🎉✨ I want you to know how much you mean to me and how deeply I care about you. Sometimes you may forget me or be a little careless 😅, but my love for you never changes. Your smile makes everything brighter, and your presence makes my world happier. 💕 May Buddha bless you with endless happiness, joy, peace, and all the beautiful moments you truly deserve. 🍀🎈 Enjoy your special day to the fullest, my love, and always remember how precious and wonderful you are to me! ❤️😘"
+    "Jasmine Ji 💖, Happy Birthday to my favorite person and someone who has become truly special to me! 🎉✨ I want you to know that you mean more to me than I can easily express. Sometimes you forget about me or act a little careless 😅, but somehow, you still manage to stay in my thoughts and bring a smile to my face. Your smile makes everything brighter, and even our little conversations make my day feel more beautiful. 💕🌸 May Buddha bless you with endless happiness, love, peace, success, and all the wonderful things your heart wishes for. 🙏🏻🍀 Enjoy your special day to the fullest, Jasmine Ji, and never forget how precious and amazing you are. ❤️ Maybe you don’t realize it yet, but there is someone who cares about you a little more than just a friend would. 🙈💗 Keep smiling, stay beautiful, and always be the reason behind someone's happiness. Happy Birthday once again, my special person! 🎂😘❤️"
 
   const footerMessage = "Thanks for being you, with me 💖"
 
